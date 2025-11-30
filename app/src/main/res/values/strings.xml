@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">Edu Wave</string>
+    <string name="explore_hint">Explore for knowledge</string>
+    <string name="button_text">Go....</string>
+    <string name="homepage_title">Learning....... With EduWave......</string>
+    <string name="register_here">Register here</string>
+    <string name="sign_up_and_join">SignUp and join us</string>
+    <string name="name_hint">Name in Full</string>
+    <string name="email_hint">Email</string>
+    <string name="contact_no_hint">Contact No</string>
+    <string name="register">Register</string>
+    <string name="already_registered_login">Already Registered?Login</string>
+    <string name="hello">Hello there, Welcome Back</string>
+    <string name="signin_continue">Sign in to continue</string>
+    <string name="username_hint">username</string>
+    <string name="password_hint">Password</string>
+    <string name="forget_password">Forget Password?</string>
+    <string name="signin">Sign in</string>
+    <string name="new_user_signup">New User? SIGN UP</string>
+</resources>
